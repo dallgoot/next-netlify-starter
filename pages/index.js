@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Merci ! de ta curiosité 😊" />
+        <img src="OnlyFans-logo.jpg" />
         <p className="description">
           ..mais je n'ai pas le physique pour un Onlyfans 😘
         </p>
